@@ -130,17 +130,3 @@ document.querySelector('#book-list').addEventListener('click', (e) => {
 });
 
 
-/*doubts
-1.DOMContentLoaded
-2.static method
-3.JSON.stringfy
-4.splice method(Array method) 
-    
-==>The splice() method adds and/or removes array elements.
-
-==>The splice() method overwrites the original array.
-
-==>Syntax
-array.splice(index, howmany, item1, ....., itemX)
-Parameters)
-*/
