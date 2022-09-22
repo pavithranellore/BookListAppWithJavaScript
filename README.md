@@ -1,2 +1,0 @@
-# BookListAppWithJavaScript
-Created with CodeSandbox
